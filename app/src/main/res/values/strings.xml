@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">NewLoginPage</string>
+
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+
+    <string-array name="crypto_stock_abb">
+        <item>BTC</item>
+        <item>ETH</item>
+        <item>NVDA</item>
+        <item>AMD</item>
+        <item>AAPL</item>
+        <item>MFST</item>
+        <item>ADBE</item>
+
+
+    </string-array>
+
+    <string-array name="crypto_stock_not_abb">
+        <item>Bitcoin</item>
+        <item>Ethereum</item>
+        <item>NVIDIA Corporation</item>
+        <item>AMD</item>
+        <item>Apple Inc.</item>
+        <item>Microsoft Corporation</item>
+        <item>ADBE: Adobe Inc.</item>
+
+
+    </string-array>
+
+
+    <string-array name="pos_or_neg_price">
+        <item>−138.24 (0.87%)</item>
+        <item>52.78 (0.34%)</item>
+        <item>-89.61 (0.56%)</item>
+        <item>104.39 (0.67%)</item>
+        <item>-22.13 (0.14%)</item>
+        <item>63.45 (0.41%)</item>
+        <item>-73.96 (0.47%)</item>
+
+
+    </string-array>
+
+    <string-array name="current_price">
+        <item>$ 16,642.89</item>
+        <item>$ 1,147.16</item>
+        <item>$ 153.39</item>
+        <item>$ 104.39</item>
+        <item>$ 63.86</item>
+        <item>$ 132.23</item>
+        <item>$ 238.19</item>
+
+
+    </string-array>
+
+
+</resources>
